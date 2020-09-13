@@ -11,6 +11,6 @@ $ pip show jupyter_contrib_nbextensions
 Copy code into this folder and can edit from here!
 eg /Users/username/anaconda3/envs/jupyterexperiments/lib/python3.7/site-packages/jupyter_contrib_nbextensions/nbextensions
 
-$jupyter nbextension install planet_jupyter
+$ jupyter nbextension install planet_jupyter
 
-$jupyter nbextension enable planet_jupyter/main
+$ jupyter nbextension enable planet_jupyter/main
