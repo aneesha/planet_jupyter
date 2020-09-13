@@ -1,5 +1,5 @@
 # planet_jupyter
-Sample Jupyter Notebook Extension (created for the [Creating a Jupyter Notebook Extension — Part 1](https://medium.com/@aneesha/creating-a-jupyter-notebook-extension-part-1-31c72032cad) blog post.
+Sample Jupyter Notebook Extension created for the [Creating a Jupyter Notebook Extension — Part 1](https://medium.com/@aneesha/creating-a-jupyter-notebook-extension-part-1-31c72032cad) blog post.
 
 ## Instructions
 $ conda create --name jupyterexperiments python=3.7
